@@ -108,4 +108,4 @@ sp500-financial-strength-dashboard/
 ```
 
 ##Dashboard Preview
-![Dashboard Preview](dashboard/sp500_dashboard_final.png)
+![Dashboard Preview](sp500_dashboard_final.png)

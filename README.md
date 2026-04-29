@@ -104,3 +104,5 @@ sp500-financial-strength-dashboard/
 │   └── sp500_analysis.py
 │
 └── README.md
+
+![Dashboard Preview](sp500_dashboard_final.png)

@@ -86,6 +86,7 @@ The dashboard includes:
 - Some companies achieve strong financial performance while maintaining relatively lower debt dependence.
 - The Financial Strength Score helps identify firms with balanced financial profiles rather than simply high earnings alone.
 
+
 ## File Structure
 ```text
 sp500-financial-strength-dashboard/
@@ -104,5 +105,7 @@ sp500-financial-strength-dashboard/
 │   └── sp500_analysis.py
 │
 └── README.md
+```
 
-![Dashboard Preview](sp500_dashboard_final.png)
+##Dashboard Preview
+![Dashboard Preview](dashboard/sp500_dashboard_final.png)
